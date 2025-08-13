@@ -1,0 +1,1 @@
+# this is a script just used to test the GitHub actions
