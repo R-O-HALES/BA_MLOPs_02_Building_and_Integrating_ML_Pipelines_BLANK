@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/u244670/OneDrive%20-%20British%20Airways%20Plc/Training%20materials/Python/BA_MLOPs_02_Building_and_Integrating_ML_Pipelines_BLANK-1/04_ML_Flow/mlruns/974835530460169309/models/m-80e799b213e745038ad31e529fa46913/artifacts
+creation_timestamp: 1755096548914
+experiment_id: '974835530460169309'
+last_updated_timestamp: 1755096559568
+model_id: m-80e799b213e745038ad31e529fa46913
+model_type: null
+name: svm_model
+source_run_id: f1ca4f9f155a405ab3ff8f585dd7d3fa
+status: 2
+status_message: null

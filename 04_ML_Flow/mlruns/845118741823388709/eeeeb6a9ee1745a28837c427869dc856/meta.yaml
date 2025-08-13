@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/u244670/OneDrive%20-%20British%20Airways%20Plc/Training%20materials/Python/BA_MLOPs_02_Building_and_Integrating_ML_Pipelines_BLANK-1/04_ML_Flow/mlruns/845118741823388709/eeeeb6a9ee1745a28837c427869dc856/artifacts
+end_time: 1755096849838
+entry_point_name: ''
+experiment_id: '845118741823388709'
+lifecycle_stage: active
+run_id: eeeeb6a9ee1745a28837c427869dc856
+run_name: Gradient Boosting Classifier_CV_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755096834971
+status: 3
+tags: []
+user_id: u244670

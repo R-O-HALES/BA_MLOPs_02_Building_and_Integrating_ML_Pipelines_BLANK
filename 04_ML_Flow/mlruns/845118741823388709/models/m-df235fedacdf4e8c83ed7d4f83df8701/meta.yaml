@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/u244670/OneDrive%20-%20British%20Airways%20Plc/Training%20materials/Python/BA_MLOPs_02_Building_and_Integrating_ML_Pipelines_BLANK-1/04_ML_Flow/mlruns/845118741823388709/models/m-df235fedacdf4e8c83ed7d4f83df8701/artifacts
+creation_timestamp: 1755097066266
+experiment_id: '845118741823388709'
+last_updated_timestamp: 1755097077954
+model_id: m-df235fedacdf4e8c83ed7d4f83df8701
+model_type: null
+name: final_model_pipeline
+source_run_id: ebe76504017447f39341d4ab95fa1b8c
+status: 2
+status_message: null

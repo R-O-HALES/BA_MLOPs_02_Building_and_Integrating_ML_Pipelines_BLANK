@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/u244670/OneDrive%20-%20British%20Airways%20Plc/Training%20materials/Python/BA_MLOPs_02_Building_and_Integrating_ML_Pipelines_BLANK-1/04_ML_Flow/mlruns/485522061304039064/models/m-341fa1799d144d45bbc0d7ae6417ee03/artifacts
+creation_timestamp: 1755096445775
+experiment_id: '485522061304039064'
+last_updated_timestamp: 1755096457266
+model_id: m-341fa1799d144d45bbc0d7ae6417ee03
+model_type: null
+name: decision_tree_classifier_model
+source_run_id: 3ad944d3e15748a38745276fc9e72875
+status: 2
+status_message: null

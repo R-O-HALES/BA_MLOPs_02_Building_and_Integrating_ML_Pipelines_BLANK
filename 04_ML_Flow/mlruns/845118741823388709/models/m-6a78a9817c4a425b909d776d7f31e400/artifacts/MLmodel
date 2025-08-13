@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/u244670/OneDrive%20-%20British%20Airways%20Plc/Training%20materials/Python/BA_MLOPs_02_Building_and_Integrating_ML_Pipelines_BLANK-1/04_ML_Flow/mlruns/845118741823388709/models/m-6a78a9817c4a425b909d776d7f31e400/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-6a78a9817c4a425b909d776d7f31e400
+model_size_bytes: 142697
+model_uuid: m-6a78a9817c4a425b909d776d7f31e400
+prompts: null
+run_id: eeeeb6a9ee1745a28837c427869dc856
+utc_time_created: '2025-08-13 14:53:58.727637'

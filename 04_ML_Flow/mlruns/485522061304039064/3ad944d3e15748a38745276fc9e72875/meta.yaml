@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/u244670/OneDrive%20-%20British%20Airways%20Plc/Training%20materials/Python/BA_MLOPs_02_Building_and_Integrating_ML_Pipelines_BLANK-1/04_ML_Flow/mlruns/485522061304039064/3ad944d3e15748a38745276fc9e72875/artifacts
+end_time: 1755096457317
+entry_point_name: ''
+experiment_id: '485522061304039064'
+lifecycle_stage: active
+run_id: 3ad944d3e15748a38745276fc9e72875
+run_name: Decision_Tree_Trial_Simplified_Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755096445215
+status: 3
+tags: []
+user_id: u244670
